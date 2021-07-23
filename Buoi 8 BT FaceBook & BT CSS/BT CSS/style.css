@@ -1,0 +1,160 @@
+
+/* //BAI TAP 1 */
+
+.pri{
+    height: 450px;
+    width: 1400px;
+    background-color:darkgrey;
+}
+
+.fir{
+    position: relative; 
+    display: block;
+    height: 150px;
+    width: 1350px;
+    background-color:aqua;
+    background-position:inherit ;
+    color: white;
+    text-align: left;
+    font-size: 35px;
+    padding-top: 35px;
+    padding-left: 50px;
+
+}
+
+.h1{
+    position: absolute;
+    display: block;
+    width: 220px;
+    height: 170px;
+    background-color: white;
+    margin-left: 60px;
+    margin-top: -50px;
+    padding-top: 5px;
+    padding-left: 20px;
+
+}
+.h2{
+    position: absolute;
+    display: block;
+    width: 220px;
+    height: 170px;
+    background-color: white;
+    margin-left: 550px;
+    margin-top: -50px;
+    padding-top: 5px;
+    padding-left: 20px;
+    
+
+}
+.h3{
+    position: absolute;
+    display: block;
+    width: 220px;
+    height: 170px;
+    background-color: white;
+    margin-left: 1100px;
+    margin-top: -50px;  
+    padding-top: 5px;
+    padding-left: 20px;
+
+}
+
+.g1{
+    opacity: 0.4;
+}
+
+.fas{
+    color: greenyellow;
+    font-size: 25px;
+}
+
+/* BÀI 2 */
+.khung{
+ 
+    height: 650px;
+    padding-top: 100px;
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 1700px;
+    margin-top: 350px;
+    background-color: antiquewhite;
+ 
+    margin-bottom: 100px;
+  
+}
+.s1{
+    text-align: center;
+    background-color: aqua;
+    font-size: 20px;
+}    
+.b1{
+    display: flex;
+    height: 200px;
+    width: 400px;
+}
+
+.noidung{
+    display: flex;
+    height: 400px;
+    /* background-color: blue; */
+    padding-top: 50px;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-start;
+}
+
+.web{
+    display: flex;
+    height: 200px;
+    width: 400px;
+    background-color: aqua;
+    color: whitesmoke;
+    font-size: 50px;
+    justify-content: center;
+    align-items: center;
+
+}
+.nd-ct{
+    display: flex;
+    background-color: white;
+
+    
+}
+
+
+
+
+/* BÀI 3 */
+.container{
+    display : flex;
+    width: 1000px;
+    border-bottom: red dashed;
+    padding-bottom: 30px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.logo-pink{
+    display: block;
+    background-color: pink;
+    height: 150px;
+    width: 350px;
+    font-size: 130px;
+    text-align: center;
+    margin-right: 35px;
+} 
+.container-f4{
+    display : flex;
+    width: 1000px;
+    padding-bottom: 30px;
+    margin-top: 50px;
+    margin-left: 50px;
+
+}
+.khung3{
+    width: 1100px;
+    margin-top: 350px;
+    background-color: gray;
+    padding-top: 50px;
+    margin-bottom: 100px;
+}

@@ -1,0 +1,69 @@
+.container{
+    display : flex;
+    max-width: 650px;
+}
+
+.text{
+    margin-left:20px;
+}
+
+
+
+.category{
+    color: rgb(221, 79, 23);
+    font-size: 10px;
+}
+.date{
+    font-size: 10px;
+}
+
+.ava{
+    border-radius: 50px;
+    display: block;
+   
+    margin-left: 880px;
+
+}
+
+.anh{
+    display: flex;
+    height: 500px;
+    background-color: blueviolet;
+    background-image: url("1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    flex-direction:row;
+    align-items: flex-end;
+    justify-content:space-between;
+
+}
+.button-edit{
+    color: blue;
+}
+.fas{
+    margin-right: 5px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+.namefb{
+    text-align: center;
+    color: blue;
+}
+
+
+/* //BAI TAP 1 */
+
+/* .pri{
+    display: block;
+    margin-top: 1200px;
+    width: 1200px;
+    height: 850px;
+    background-color: brown;
+} */
+
+/* div {
+    height: 200px;
+    width: 50%;
+    background-color: powderblue;
+  } */
