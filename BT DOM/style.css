@@ -1,0 +1,42 @@
+.bt{
+    display: flex;
+    
+}
+
+.bai1{
+    width: 350px;
+    margin-top: 100px;
+    margin-left: 100px;
+  
+
+}
+.button-an{
+    display: block;
+    margin-top: 10px;
+    margin-right: 150px;
+}
+
+#khoi{
+    display: block;
+    margin-top: 20PX;
+    background-color: blueviolet;
+    width: 250px;
+    height: 250px;
+}
+
+/* CSS BAI 2 */
+.bai2{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+#button-doi{
+    display: block;
+    margin-top: 10px;
+}
+
+#khoi-mau{
+    display: block;
+    margin-top: 20PX;
+    width: 250px;
+    height: 250px;
+}
